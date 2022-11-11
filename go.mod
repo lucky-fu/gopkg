@@ -1,4 +1,4 @@
-module github.com/gopkg
+module github.com/lucky-fu/gopkg
 
 go 1.17
 
