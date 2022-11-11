@@ -3,8 +3,8 @@ package middleware
 import (
 	"fmt"
 
-	"github.com/gopkg/define"
-	"github.com/gopkg/util"
+	"github.com/lucky-fu/gopkg/define"
+	"github.com/lucky-fu/gopkg/util"
 )
 
 var (

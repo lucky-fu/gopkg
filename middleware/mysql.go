@@ -3,7 +3,7 @@ package middleware
 import (
 	"fmt"
 
-	"github.com/gopkg/define"
+	"github.com/lucky-fu/gopkg/define"
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"
 )
